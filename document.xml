@@ -10,9 +10,10 @@
 
 
 
+
 <teiHeader>
 
-<encodingDesc><appInfo><application version="1.0" ident="CWRC-GitWriter-web-app" notAfter="2018-08-23T19:22:24.512Z"><label>CWRC-GitWriter-web-app</label></application></appInfo></encodingDesc></teiHeader>
+<encodingDesc><appInfo><application version="1.0" ident="CWRC-GitWriter-web-app" notAfter="2018-08-23T19:37:14.270Z"><label>CWRC-GitWriter-web-app</label></application></appInfo></encodingDesc></teiHeader>
 
 
 	<text>
@@ -21,7 +22,7 @@
 				<head>
 					<title>NEWBIE'S TEST FILE</title>
 				</head>
-				<p>Here's a newbie trying CWRC Writer for the first time</p>
+				<p>Here's a newbie trying CWRC Writer for the first time which is always exciting news. </p>
 			</div>
 		</body>
 	</text>
