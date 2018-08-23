@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:w="http://cwrctc.artsrn.ualberta.ca/#"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#">
+<rdf:Description rdf:about="http://cwrc.dh.tamu.edu//editor/documents/null">
+	<cw:mode>0</cw:mode>
+	<cw:allowOverlap>false</cw:allowOverlap>
+</rdf:Description>
+</rdf:RDF>
+
+
+
+<teiHeader>
+
+<encodingDesc><appInfo><application version="1.0" ident="CWRC-GitWriter-web-app" notAfter="2018-08-23T19:22:24.512Z"><label>CWRC-GitWriter-web-app</label></application></appInfo></encodingDesc></teiHeader>
+
+
+	<text>
+		<body>
+			<div>
+				<head>
+					<title>NEWBIE'S TEST FILE</title>
+				</head>
+				<p>Here's a newbie trying CWRC Writer for the first time</p>
+			</div>
+		</body>
+	</text>
+</TEI>
